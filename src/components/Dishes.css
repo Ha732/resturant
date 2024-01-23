@@ -1,0 +1,47 @@
+.tex h1 {
+  text-align: center;
+}
+.tex p {
+  text-align: center;
+}
+.section-two {
+  width: 100%;
+  height: 100vh;
+  /* margin-top: 200px; */
+}
+.image-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 60px;
+  text-align: center;
+}
+
+.image-container img {
+  width: 100%;
+  gap: 60px;
+  object-fit: cover;
+}
+.section-three {
+  width: 100%;
+  height: 100vh;
+  /* margin-top: 200px; */
+}
+
+.btn3 {
+  border-radius: 20px 10px;
+
+  padding: 20px;
+  background: black;
+  color: white;
+  width: 112px;
+  height: 54px;
+}
+.btn4 {
+  border-radius: 20px 10px;
+
+  padding: 20px;
+  background: #ea6d27;
+
+  width: 163px;
+  height: 54px;
+}
